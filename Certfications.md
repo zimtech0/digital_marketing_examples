@@ -1,4 +1,8 @@
-
+---
+title: Certfications
+layout: template
+filename: Certifications.md
+--- 
 ## Welcome to Certification Pages
 
 You can use the [editor on GitHub](https://github.com/zimtech0/digital_marketing_examples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
