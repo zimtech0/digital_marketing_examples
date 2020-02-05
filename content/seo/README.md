@@ -6,7 +6,7 @@ Have you ever heard of Maslow's hierchary of needs?  It'simply a theory of psych
 
 Take a look at the pyramid below to further reinforce this idea.
 
-[Image](mozlow_hierarchy.svg)
+[Image](content/seo/mozlow_hierarchy.svg)
 
 
 ### Markdown
