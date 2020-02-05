@@ -18,4 +18,14 @@ Let's set the priorities of effective SEO efforts using a simple ordered list
 
 Each of the items listed above work toward an overall goal, which it to improve a site's overall competitiveness while the items listed lower on the list have to be dealt with firstly as each are essential to obtaining page ranking through organic search.
 
+We can take a comprehensive approach to ensure that we maximize our efforts by performing the following task:
+
+- Take your business online
+- Make it easy for people to find your business on the web
+- Reach more people locally and using social media
+- Reach more customers with advertising
+- Track and measure web traffic
+- Increase online sales of products and services
+- Take your business global
+
 
