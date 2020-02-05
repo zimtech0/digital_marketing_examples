@@ -1,4 +1,4 @@
- ## Welcome and Thanks for taking the time to review my work! 
+## Welcome and Thanks for taking the time to review my work! 
 
 I'm Kelvin, a business professional with a knack for coding. For, many years I worked at various levels of accounting (public, private,etc). However, I have always had an interest in web development and digital marketing.
 
