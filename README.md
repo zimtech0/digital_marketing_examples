@@ -1,8 +1,8 @@
 ## Welcome and Thanks for taking the time to review my work!
 
-I'm Kelvin, a business professional with a knack for coding. For, many years I worked at various levels of accounting (public, private,etc). However, I have always had. an interest in web development and digital marketing.
+I'm Kelvin, a business professional with a knack for coding. For, many years I worked at various levels of accounting (public, private,etc). However, I have always had an interest in web development and digital marketing.
 
-Over the years as "tinkered", I was able to refine my skills and aquire additional training which as you will see make me not only unique but a team member that can immediately assist organizations both small and large in many roles both technical and administrative.
+Over the years as "tinkered and learned ", I was able to refine my skills and aquire additional training which as you will see makes my skill set very unique and additionally, a team member that can immediately contribute to organizations both small and large in many roles both technical and administrative.
  
 ### Markdown
 #[Certifications](Certfications.md)
