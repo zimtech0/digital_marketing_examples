@@ -5,6 +5,10 @@ Search Engine Optimization is one of the basic ways that if implemented correctl
 Have you ever heard of Maslow's hierchary of needs?  It'simply a theory of psychology that priorities the most fundamental human needs (such as air, water and physical safety) as opposed to more advanceed needs (such as esteem and social belonging).  Simply put, you can't achieve the needs at the top without ensuring that the more fundamental needs are met first. An example would be that most would be hard press to focus on "finding love", if you have a more basic need of "finding food".
 
 Take a look at the pyramid below to further reinforce this idea.
+
+[Image](mozlow_hierarchy.svg)
+
+
 ### Markdown
 #[Certifications](Certfications.md)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
