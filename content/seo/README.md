@@ -4,8 +4,16 @@ Search Engine Optimization is one of the basic ways that if implemented correctl
 
 Have you ever heard of Maslow's hierarchary of needs?  It'simply a theory of psychology that priorities the most fundamental human needs (such as air, water and physical safety) as opposed to more advanceed needs (such as esteem and social belonging).  Simply put, you can't achieve the needs at the top without ensuring that the more fundamental needs are met first. An example would be that most would be hard press to focus on "finding love", if you have a more basic need of "finding food".
 
-You're probably asking yourself by now, "How does this fit into SEO?", well let' examine the chart below to see the correlation.
+You're probably asking yourself by now, "How does this fit into SEO?", well let' dive a bit deeper to help you to see the correlation.
 
-[Maslow's hierarchy of SEO Needs](content/seo/mozlow_hierarchy.png)
+Let's set the priorities of effective SEO efforts using a simple ordered list
+
+1. Snippet/schema markup (to achieve high page rankings, ie SERPs)
+2. Title, URL, & Description (to get higher click through rates in the rankings)
+3. Share-worthy content (awesome content that earns links, citations, and amplications)
+4. Great User experience (including a fast load speed, ease of use, and compelling UI/UX on any device)
+5. Keyword Optimization (to attracted searchers & search engines)
+6. Compelling content (that answers the searcher's query)
+7. Crawl accessiblity (so search engines can reach and index your content)
 
 
