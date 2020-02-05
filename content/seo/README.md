@@ -6,7 +6,7 @@ Have you ever heard of Maslow's hierarchary of needs?  It'simply a theory of psy
 
 You're probably asking yourself by now, "How does this fit into SEO?", well let' examine the chart below to see the correlation.
 
-[Maslow's hierarchy of SEO Needs](content/seo/mozlow_hierarchy.svg)
+![Maslow's hierarchy of SEO Needs](content/seo/mozlow_hierarchy.svg)
 
 
 
