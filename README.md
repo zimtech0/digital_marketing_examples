@@ -2,39 +2,22 @@
 
 I'm Kelvin, a business professional with a knack for coding. For, many years I worked at various levels of accounting (public, private,etc). However, I have always had an interest in web development and digital marketing.
 
-Over the years as "tinkered and learned ", I was able to refine my skills and aquire additional training which as you will see makes my skill set very unique and additionally, a team member that can immediately contribute to organizations both small and large in many roles both technical and administrative.
+Over the years as "tinkered and learned ", I was able to refine my skills and aquire additional training which as you will see makes my skill set very unique and additionally, would allow me to be a productive team member that can immediately contribute to organizations both small and large in many roles both technical and administrative.
  
-### Markdown
-#[Certifications](Certfications.md)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skill set overview
 
-```markdown
-Syntax highlighted code block
+Below is a list of my current skills:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Advanced MS Excel experience (Pivot Table, V-Lookups,etc)
+- Full cycle bookkeeping through Financial Statement preparation
+- In depth Keyword Research and Competitive Analysis
+- Experience using various Digital Marketing anlaytical tools (Google Analytics, SEMRush, Moz,etc)
+- Competent programming skills with implementing solutions using HTML5, CSS, Sass, Javascript, REACt/Redux, Php, Laravel, Python, Django and Flask
+- Experience with Wordpress and plugins such as Yoast for Wordpress
+- Site Auditing using various competive analysis tools including SEMRush, Google Analytics
+- On page technical SEO
+- SEM campaign development, measurement and reporting
+- Social Media marketing including Facebook, Youtube, Twitter and Instagram
 
 
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zimtech0/digital_marketing_examples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The subsequent pages will both discuss and demonstrate my understanding of the key point listed above.
