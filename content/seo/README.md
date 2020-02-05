@@ -20,11 +20,12 @@ Each of the items listed above work toward an overall goal, which it to improve 
 
 We can take a comprehensive approach to ensure that we maximize our efforts by performing the following task:
 
-- Take our business online
+- Take your business online
 - Make it easy for people to find your business on the web
 - Reach more people locally and using social media
 - Reach more customers with advertising
 - Track and measure web traffic
 - Increase online sales of products and services
 - Take your business global
+
 

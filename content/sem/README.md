@@ -1,40 +1,12 @@
-## Welcome to SEM
+## Search Engine Marketing (SEM)
 
-You can use the [editor on GitHub](https://github.com/zimtech0/digital_marketing_examples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Search engine marketing, or SEM is one of the most effective ways to grow your business in a competitive online marketplace. With numerous competitors vying for the same "eyeballs", it's very important to advertise online in an effective and cost effecient way.  Search Engine Marketing is one of the most effective ways to promote your products and services while growing your business.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Moreover, Search engine marketing is the practice of marketing a business using paid advertisments that appear on search engine results pages or SERPs.  Advertisers bid on keywords that users of search engines services such as Google or Bing might enter when they are searching for specific products or services. This gives the advertiser an opportunity for their ads to appear alongside organic results for a search query.
 
-### Markdown
-#[Certifications](Certfications.md)
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These ads, also referred to as "pay-per-click ads", come in several different formats. Some are small, text-based ads, while others, such as product lising ads (PLAs, also known as shopping ads) are more visual, product-based advertisements that show potential customers "at a glance", a product visual, price and/or a product review.
 
-```markdown
-Syntax highlighted code block
+One of the biggest advantages to search engine marketing is that it offers advertisers the opportunity to put their ads in front of motivated customers who are ready to buy at the precise moment they're ready to make a purchase.  No other advertising medium does this quite as well, which is in part why search engine marketing is so effective and such a powerful way to grow your business.
 
-# Header 1
-## Header 2
-### Header 3
+As with SEO, keyword are the foundation. As users enter keywords (as part of their search query) into search engines, such as Google or Bing, to find what they are looking for, results are then returned based on the keywords being utilized at the time.  Keywords for the basis for both SEO and SEM and keyword research and analysis are and integral part of your site's ability to reach perspective customers.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zimtech0/digital_marketing_examples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
