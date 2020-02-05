@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome and Thanks for taking the time to review my work!
 
-You can use the [editor on GitHub](https://github.com/zimtech0/digital_marketing_examples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Kelvin, a business professional with a knack for coding. For, many years I worked at various levels of accounting (public, private,etc). However, I have always had. an interested in web development and digital marketing.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
