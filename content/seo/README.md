@@ -1,9 +1,10 @@
-## Search Engine Optimization (SEO)
+## Search Engine Optimization (SEO): Ranking and Traffic Through Organic Search
 
-You can use the [editor on GitHub](https://github.com/zimtech0/digital_marketing_examples/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Search Engine Optimization is one of the basic ways that if implemented correctly, will drive traffic to your site.  It's implementation is imperative and will help your site reach potential customers. However, along with keyword and competitive research , your sites content must contain what the searcher is looking for.. "Content is King".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Have you ever heard of Maslow's hierchary of needs?  It'simply a theory of psychology that priorities the most fundamental human needs (such as air, water and physical safety) as opposed to more advanceed needs (such as esteem and social belonging).  Simply put, you can't achieve the needs at the top without ensuring that the more fundamental needs are met first. An example would be that most would be hard press to focus on "finding love", if you have a more basic need of "finding food".
 
+Take a look at the pyramid below to further reinforce this idea.
 ### Markdown
 #[Certifications](Certfications.md)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
