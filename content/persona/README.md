@@ -4,7 +4,7 @@
 ## Marketing Kelvin
 
 
-![Kelvin]({{site.url}}{{site.baseurl}}/assets/images/kelvin.jpg)
+![Kelvin](/assets/images/kelvin.jpg)
 
 ### BACKGROUND:
 - Manages clients Digital Marketing, Front-End Website,Development and Bookkeeping projects
