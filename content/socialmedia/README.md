@@ -9,7 +9,7 @@
 - You can use social media to attract buyers.
 - It can help you better understand you consumers and
   develop a better customer persona. [Sample
-  Persona](../persona/README.md)
+  Persona](https://github.com/zimtech0/Digital-Marketing/blob/master/content/persona/README.md)
   
 ## How can Kelvin/Zimtech help? 
 I can help you navigate the social media terrain to move forward with the following to increase your social media effectivenes:
