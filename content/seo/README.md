@@ -19,7 +19,6 @@ Let's set the priorities of effective SEO efforts using a simple ordered list
 ![Mozlow Hierarchy](https://github.com/zimtech0/Digital-Marketing/blob/master/assets/images/mozlow_hierarchy.png)
 
 
-
 Each of the items listed above work toward an overall goal, which it to improve a site's overall competitiveness while the items listed lower on the list have to be dealt with firstly as each are essential to obtaining page ranking through organic search.
 
 We can take a comprehensive approach to ensure that we maximize our efforts by performing the following task:
