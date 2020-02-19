@@ -4,7 +4,7 @@
 ## Marketing Kelvin
 
 
-![Kelvin](/assets/images/kelvin.JPG)
+![Kelvin](https://github.com/zimtech0/Digital-Marketing/raw/master/assets/images/kelvin.JPG)
 
 ### BACKGROUND:
 - Manages clients Digital Marketing, Front-End Website,Development and Bookkeeping projects
