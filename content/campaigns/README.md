@@ -7,7 +7,7 @@ The first thing you need to do when developing your digital marketing plan is to
 
 We need to be familiar with the ecosystem we operate in, what our customers' needs are, and where they get addressed. This analysis is equally qualitative as it is quantitative through looking at factors such as digital habits, intermediaries, influencers, and more.
 
-![SWOT Analysis]({{site.url}}/assets/images/swot_analysis.jpeg)
+![SWOT Analysis](/assets/images/swot_analysis.jpeg)
 
 Implementing benchmarking techniques that aim to identify the best digital practices and success stories and applying them to the business is an increasingly prominent part of the overall corporate strategy.
 
@@ -19,7 +19,7 @@ Once you have your place in the market and your strong points in mind, work on e
 You can work on developing this part of your digital marketing plan with the SMART goals framework in mind: specific, measurable, attainable, relevant, and timely goals.
 
 
-![SMART Goals]({{site.url}}/assets/images/smart_goals.jpeg)
+![SMART Goals](/assets/images/smart_goals.jpeg)
 
 
 See the examples below:
