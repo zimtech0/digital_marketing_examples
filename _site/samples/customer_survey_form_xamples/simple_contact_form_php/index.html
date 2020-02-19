@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <title>Form title goes here</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link href='http://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="divider"></div>
+
+        <div class="heading">
+            <h2> A lead in header goes here.</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <form id="contact-form" method="post" action=" " role="form">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <label for="firstname">First Name<span class="blue">*</span></label>
+                            <input required type="text" name="firstname" class="form-control" placeholder="Enter your firstname" id="firstname" value="">
+                            <p class="comments">  </p>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="lastname">Last Name <span class="blue">*</span></label>
+                            <input required type="text" name="name" class="form-control" placeholder="Your Lastname" id="name" value=" ">
+                            <p class="comments"> </p>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="email">Email <span class="blue">*</span></label>
+                            <input required type="email" name="email" class="form-control" placeholder="enter email" id="email" value=" ">
+                            <p class="comments"> </p>
+                        </div>
+
+                        <div class="col-md-6">
+                            <label for="phone">Phone #</span></label>
+                            <input type="tel" name="phone" class="form-control" placeholder="enter telephone" id="phone" value=" ">
+                            <p class="comments"> </p>
+                        </div>
+                        
+                        
+        <div class="form-group">
+          <label id="number-label" for="number"
+            >Age<span class="clue">(optional)</span></label
+          >
+          <input
+            type="number"
+            name="age"
+            id="number"
+            min="10"
+            max="99"
+            class="form-control"
+            placeholder="Age"
+          />
+        </div>
+        <div class="form-group">
+          <p>Question you may want to ask prospect?</p>
+          <select id="dropdown" name="role" class="form-control" required>
+            <option disabled selected value>Select current role</option>
+            <option value="student">Option 1</option>
+            <option value="job">Option 2</option>
+            <option value="learner">Option 3</option>
+            <option value="preferNo">Option 4</option>
+            <option value="other">Option 5</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <p>Question you may want to ask prospect?</p>
+          <label>
+            <input
+              name="user-recommend"
+              value="definitely"
+              type="radio"
+              class="input-radio"
+              checked
+            />Definitely</label
+          >
+          <label>
+            <input
+              name="user-recommend"
+              value="maybe"
+              type="radio"
+              class="input-radio"
+            />Maybe</label
+          >
+
+          <label
+            ><input
+              name="user-recommend"
+              value="not-sure"
+              type="radio"
+              class="input-radio"
+            />Not sure</label
+          >
+        </div>
+
+        <div class="form-group">
+          <p>
+            Another question you may want to ask?
+          </p>
+          <select id="most-like" name="mostLike" class="form-control" required>
+            <option disabled selected value>Select an option</option>
+            <option value="beginner">Option 1</option>
+            <option value="intermediate">Option 2</option>
+            <option value="advanced">Option 3</option>
+            <option value="Supreme Ruler">Option 4</option>
+          </select>
+        </div>
+
+        <div class="form-group">
+          <p>
+            Checkbox Example:
+            <span class="clue">(Check all that apply)</span>
+          </p>
+
+          <label
+            ><input
+              name="prefer"
+              value="front-end-development"
+              type="checkbox"
+              class="input-checkbox"
+            />Option 1</label
+          >
+          <label>
+            <input
+              name="prefer"
+              value="back-end-development"
+              type="checkbox"
+              class="input-checkbox"
+            />Option 2</label
+          >
+          <label
+            ><input
+              name="prefer"
+              value="data-science"
+              type="checkbox"
+              class="input-checkbox"
+            />Option 3</label
+          >
+        </div>
+
+                        <div class="col-md-12">
+                            <label for="message">Message: <span class="blue">*</span></label>
+                            <textarea required name="message" id="message" class="form-control" placeholder="write message" rows="4"> </textarea>
+                            <p class="comments">  </p>
+                        </div>
+
+                        
+                        <div class="col-md-12">
+                            <input type="submit" class="button1" value="submit">
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
