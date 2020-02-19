@@ -1,6 +1,6 @@
 # Search Engine Marketing (SEM)
 
-![SEM Cycle]({{site.url}}/assets/images/sem_cycle.png)
+![SEM Cycle](/assets/images/sem_cycle.png)
 
 Search engine marketing, or SEM is one of the most effective ways to grow your business in a competitive online marketplace. With numerous competitors vying for the same "eyeballs", it's very important to advertise online in an effective and cost effecient way.  Search Engine Marketing is one of the most effective ways to promote your products and services while growing your business.
 
