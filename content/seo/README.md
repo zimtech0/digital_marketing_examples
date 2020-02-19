@@ -16,7 +16,7 @@ Let's set the priorities of effective SEO efforts using a simple ordered list
 6. Compelling content (that answers the searcher's query)
 7. Crawl accessiblity (so search engines can reach and index your content)
 
-![Mozlow Hierarchy](https://github.com/zimtech0/Digital-Marketing/raw/master/assets/images/mozlow_hierarchy.svg)
+![Mozlow Hierarchy](https://github.com/zimtech0/Digital-Marketing/raw/master/assets/images/mozlow_hierarchy.png)
 
 ![test2](https://github.com/zimtech0/Digital-Marketing/blob/master/assets/images/mozlow_hierarchy.svg)
 
