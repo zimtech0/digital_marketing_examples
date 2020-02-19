@@ -1,6 +1,6 @@
 # Social Media Marketing
 
-![Social Media Marketing]({{site.url}}/assets/images/social_media.jpeg)
+![Social Media Marketing](/assets/images/social_media.jpeg)
 
 ## Why Social Media? 
 - It helps the client expand other marketing efforts.
